@@ -36,32 +36,32 @@ The Ticket Booking System is a Java-based web application designed to simplify t
 
 2.  User Authentication:
    
-   -  A login window will appear.
+      -  A login window will appear.
      
-   -  Enter your Username and Password, then click Login.
-      ![8](https://github.com/user-attachments/assets/be986949-23d4-42d0-96f9-5dc333f18369)
+      -  Enter your Username and Password, then click Login.
+         ![8](https://github.com/user-attachments/assets/be986949-23d4-42d0-96f9-5dc333f18369)
 
-   -  If your credentials are invalid, an alert will prompt you to register.
-      ![5](https://github.com/user-attachments/assets/6c2e8bae-78cb-4f20-9df7-c4a47e127317)
+      -  If your credentials are invalid, an alert will prompt you to register.
+         ![5](https://github.com/user-attachments/assets/6c2e8bae-78cb-4f20-9df7-c4a47e127317)
 
 3.  Registering a New Account:
    
-   -  Click on the Register link on the login page.
+      -  Click on the Register link on the login page.
      
-   -  On the registration page, provide: Username, Password, Email and Phone number.
-      ![6](https://github.com/user-attachments/assets/67783fa3-3c26-4aaa-b4e8-3e1200790d5a)
+      -  On the registration page, provide: Username, Password, Email and Phone number.
+         ![6](https://github.com/user-attachments/assets/67783fa3-3c26-4aaa-b4e8-3e1200790d5a)
 
-   -  Click the Register button to complete the process.
+      -  Click the Register button to complete the process.
      
-   -  A success alert will appear. Click OK and navigate back to the login page.
-      ![7](https://github.com/user-attachments/assets/fa829f70-11d6-44a4-aca4-c6839b62062e)
+      -  A success alert will appear. Click OK and navigate back to the login page.
+         ![7](https://github.com/user-attachments/assets/fa829f70-11d6-44a4-aca4-c6839b62062e)
 
 4.  Post-login Access:
    
-   -  After successful login, you will be redirected to the Home Page to View your booked ticket.
-     ![9](https://github.com/user-attachments/assets/86b1cceb-9b76-4417-8385-36d43ee6131e)
+      -  After successful login, you will be redirected to the Home Page to View your booked ticket.
+        ![9](https://github.com/user-attachments/assets/86b1cceb-9b76-4417-8385-36d43ee6131e)
 
-   -  Here, you can print your ticket if required.
+      -  Here, you can print your ticket if required.
 
 
 
