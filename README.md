@@ -62,6 +62,14 @@ The Ticket Booking System is a Java-based web application designed to simplify t
         ![9](https://github.com/user-attachments/assets/86b1cceb-9b76-4417-8385-36d43ee6131e)
 
       -  Here, you can print your ticket if required.
+  
+## Technologies Used :
+
+-   HTML5
+-   CSS3
+-   Servlet and JSP
+-   Hibernate JPA
+-   PostgreSQL
 
 
 
