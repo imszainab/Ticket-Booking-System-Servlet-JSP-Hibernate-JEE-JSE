@@ -22,12 +22,6 @@ The Ticket Booking System is a Java-based web application designed to simplify t
 ## How to Use the System :
 
 1.  Booking Tickets:
-2.  User Authentication:
-3.  Registering a New Account:
-4.  Post-login Access:
-
-
-1.  Booking Tickets:
    -  Navigate to the booking page.
    -  Fill in the travel details: From and To destinations, Number of Passengers, Journey Type (One Way / Return).
    -  Click the Get Fare button to view the fare.
@@ -47,8 +41,8 @@ The Ticket Booking System is a Java-based web application designed to simplify t
 4.  Post-login Access:
    -  After successful login, you will be redirected to the Home Page.
    -  Here, you can:
-     -  View your booked ticket.
-     -  Print your ticket if required.
+        -  View your booked ticket.
+        -  Print your ticket if required.
 
 
 
