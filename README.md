@@ -1,11 +1,10 @@
 # Ticket-Booking-System-Servlet-JSP-Hibernate-JEE-JSE
 
-## Introdution to LMS:
+## Introdution :
 The Ticket Booking System is a Java-based web application designed to simplify the process of booking travel tickets online. Users can easily select their journey details, calculate fares, register/login to the system, and view or print their booked tickets from a user-friendly interface. This system aims to replicate the functionality of a basic online ticketing platform, offering both one-way and return journey options.
 
 *Main Features:*
-1)	Menu-driven Interface –
-- The system facilitates user interaction through a menu-driven interface, offering a range of options for performing actions such as adding, removing, and updating book details, as well as retrieving book information or exiting the system.
+
 ✅ User-friendly booking interface
 
 ✅ Fare calculation based on journey details
@@ -19,4 +18,41 @@ The Ticket Booking System is a Java-based web application designed to simplify t
 ✅ Alerts and redirections for smooth user flow
 
 ✅ Basic error handling for invalid login attempts
+
+## How to Use the System :
+
+1.  Booking Tickets:
+2.  User Authentication:
+3.  Registering a New Account:
+4.  Post-login Access:
+
+
+1.  Booking Tickets:
+   -  Navigate to the booking page.
+   -  Fill in the travel details: From and To destinations, Number of Passengers, Journey Type (One Way / Return).
+   -  Click the Get Fare button to view the fare.
+   -  After viewing the fare, click OK, and then click the Book button to proceed.
+
+2.  User Authentication:
+   -  A login window will appear.
+   -  Enter your Username and Password, then click Login.
+   -  If your credentials are invalid, an alert will prompt you to register.
+
+3.  Registering a New Account:
+   -  Click on the Register link on the login page.
+   -  On the registration page, provide: Username, Password, Email and Phone number.
+   -  Click the Register button to complete the process.
+   -  A success alert will appear. Click OK and navigate back to the login page.
+
+4.  Post-login Access:
+   -  After successful login, you will be redirected to the Home Page.
+   -  Here, you can:
+     -  View your booked ticket.
+     -  Print your ticket if required.
+
+
+
+
+
+
 
