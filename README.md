@@ -39,8 +39,8 @@ The Ticket Booking System is a Java-based web application designed to simplify t
    -  A login window will appear.
      
    -  Enter your Username and Password, then click Login.
-      ![4](https://github.com/user-attachments/assets/803c3b04-bf1f-443d-9f31-c5292838fbc7)
-      
+      ![8](https://github.com/user-attachments/assets/be986949-23d4-42d0-96f9-5dc333f18369)
+
    -  If your credentials are invalid, an alert will prompt you to register.
       ![5](https://github.com/user-attachments/assets/6c2e8bae-78cb-4f20-9df7-c4a47e127317)
 
@@ -61,9 +61,9 @@ The Ticket Booking System is a Java-based web application designed to simplify t
    -  After successful login, you will be redirected to the Home Page to View your booked ticket.
      ![9](https://github.com/user-attachments/assets/86b1cceb-9b76-4417-8385-36d43ee6131e)
 
-   -  Here, you can, print your ticket if required.
-      ![10](https://github.com/user-attachments/assets/448cfacc-bf4b-4e7c-b066-3f1488b54dd5)
+   -  Here, you can print your ticket if required.
 
+<h2 style="text-decoration: underline;">Post-login Access:</h2>
 
 
 
