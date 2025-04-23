@@ -23,16 +23,16 @@ The Ticket Booking System is a Java-based web application designed to simplify t
 
 1.  Booking Tickets:
    
-   -  Navigate to the booking page.
-      ![1](https://github.com/user-attachments/assets/4588ebdc-df00-457c-9681-9f5efb13f28b)
+      -  Navigate to the booking page.
+         ![1](https://github.com/user-attachments/assets/4588ebdc-df00-457c-9681-9f5efb13f28b)
 
-   -  Fill in the travel details: From and To destinations, Number of Passengers, Journey Type (One Way / Return).
-      ![2](https://github.com/user-attachments/assets/9e49bbdf-eb50-46e8-938b-49db77d4b8ad)
+      -  Fill in the travel details: From and To destinations, Number of Passengers, Journey Type (One Way / Return).
+         ![2](https://github.com/user-attachments/assets/9e49bbdf-eb50-46e8-938b-49db77d4b8ad)
 
-   -  Click the Get Fare button to view the fare.
-      ![3](https://github.com/user-attachments/assets/f5c698ee-0b83-4884-bba2-b43b441a2e2e)
+      -  Click the Get Fare button to view the fare.
+         ![3](https://github.com/user-attachments/assets/f5c698ee-0b83-4884-bba2-b43b441a2e2e)
 
-   -  After viewing the fare, click OK, and then click the Book button to proceed.
+      -  After viewing the fare, click OK, and then click the Book button to proceed.
 
 2.  User Authentication:
    
@@ -63,7 +63,6 @@ The Ticket Booking System is a Java-based web application designed to simplify t
 
    -  Here, you can print your ticket if required.
 
-<h2 style="text-decoration: underline;">Post-login Access:</h2>
 
 
 
